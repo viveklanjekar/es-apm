@@ -1,0 +1,2 @@
+output.elasticsearch:
+  hosts: ["http://es01.sg.aws.grabpay.com:9200, http://es02.sg.aws.grabpay.com:9200, http://es03.sg.aws.grabpay.com:9200, http://es04.sg.aws.grabpay.com:9200, http://es05.sg.aws.grabpay.com:9200, http://es06.sg.aws.grabpay.com:9200, http://es07.sg.aws.grabpay.com:9200, http://es08.sg.aws.grabpay.com:9200, http://es09.sg.aws.grabpay.com:9200, http://es10.sg.aws.grabpay.com:9200"]
